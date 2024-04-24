@@ -1,4 +1,4 @@
-# jothika-
+# jothika.s-
 Naan muthalvan
 import numpy as np
 
